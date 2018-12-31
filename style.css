@@ -62,15 +62,15 @@ h1{
 	margin-right: 5%;
 }
 .arrow_left{
-	max-height: 10%;
-	max-width: 10%;
+	height: 10%;
+	width: 10%;
 	float: left;
 	margin-left: 5%;
 	margin-top: 5%;
 }
 .arrow_right{
-	max-height: 10%;
-	max-width: 10%;
+	height: 10%;
+	width: 10%;
 	float: right;
 	margin-top: 5%;
 	margin-right: 5%;
