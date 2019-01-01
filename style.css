@@ -58,21 +58,20 @@ h1{
 	font-family: 'Roboto Condensed', sans-serif;
 	text-indent: 50px;
 	font-size: 150%;
-	margin-left: 5%;
-	margin-right: 5%;
+	text-align: center;
 }
 .arrow_left{
 	height: 10%;
 	width: 10%;
 	float: left;
 	margin-left: 5%;
-	margin-top: 5%;
+	margin-top: 2%;
 }
 .arrow_right{
 	height: 10%;
 	width: 10%;
 	float: right;
-	margin-top: 5%;
+	margin-top: 2%;
 	margin-right: 5%;
 }
 .arrow_text{
