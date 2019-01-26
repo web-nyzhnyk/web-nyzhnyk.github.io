@@ -90,6 +90,168 @@ h1{
 	text-align: center;
 	margin-top: 3%;
 }
+.mtb1{
+	margin-top: 25px;
+	margin-bottom: 20px;
+	font-family: 'Staatliches', cursive;
+	text-indent: 50px;
+	font-size: 250%;
+	text-align: center;
+}
+.details_info{
+ position: relative;
+}
+.a1 {
+	font-family: 'Staatliches', cursive;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 0.4%;
+	border-radius: 40%;
+	font-size: 200%;
+
+	position: absolute;
+	bottom: 65%;
+	left: 48%;
+}
+.a2 {
+	font-family: 'Staatliches', cursive;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 0.4%;
+	border-radius: 40%;
+	font-size: 200%;
+
+	position: absolute;
+	bottom: 52%;
+	left: 68%;
+}
+.a3 {
+	font-family: 'Staatliches', cursive;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 0.4%;
+	border-radius: 40%;
+	font-size: 200%;
+
+	position: absolute;
+	bottom: 32%;
+	left: 71%;
+}
+.a4 {
+	font-family: 'Staatliches', cursive;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 0.4%;
+	border-radius: 40%;
+	font-size: 200%;
+
+	position: absolute;
+	bottom: 15%;
+	left: 78%;
+}
+.a5 {
+	font-family: 'Staatliches', cursive;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 0.4%;
+	border-radius: 40%;
+	font-size: 200%;
+
+	position: absolute;
+	bottom: 55%;
+	left: 75%;
+}
+.a6 {
+	font-family: 'Staatliches', cursive;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 0.4%;
+	border-radius: 40%;
+	font-size: 200%;
+
+	position: absolute;
+	bottom: 45%;
+	left: 35%;
+}
+.a7 {
+	font-family: 'Staatliches', cursive;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 0.4%;
+	border-radius: 40%;
+	font-size: 200%;
+
+	position: absolute;
+	bottom: 25%;
+	left: 13%;
+}
+.a8 {
+	font-family: 'Staatliches', cursive;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 0.4%;
+	border-radius: 40%;
+	font-size: 200%;
+
+	position: absolute;
+	bottom: 72%;
+	left: 27%;
+}
+.a9 {
+	font-family: 'Staatliches', cursive;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 0.4%;
+	border-radius: 40%;
+	font-size: 200%;
+
+	position: absolute;
+	bottom: 80%;
+	left: 60%;
+}
+.a10 {
+	font-family: 'Staatliches', cursive;
+	text-decoration: none;
+	text-align: center;
+	color: #fff;
+	padding: 0.4%;
+	border-radius: 40%;
+	font-size: 200%;
+
+	position: absolute;
+	bottom: 35%;
+	left: 45%;
+}
+.a1:hover,
+.a2:hover,
+.a3:hover,
+.a4:hover,
+.a5:hover,
+.a6:hover,
+.a7:hover,
+.a8:hover,
+.a9:hover,
+.a10:hover {
+	color: #a8a8a8 
+}
+.santa_div{
+	display: flex;
+	justify-content: center;
+}
+.santacruz{
+	box-shadow: 15px 15px 15px grey;
+	width: 100%;
+	height: 100%;
+}
 /*main_and*/
 /*footer*/
 .data{
