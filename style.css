@@ -192,19 +192,6 @@ h1{
 	bottom: 70%;
 	left: 27%;
 }
-.a9 {
-	font-family: 'Kelly Slab', cursive;
-	text-decoration: none;
-	text-align: center;
-	color: #fff;
-	padding: 0.4%;
-	border-radius: 40%;
-	font-size: 200%;
-
-	position: absolute;
-	bottom: 80%;
-	left: 60%;
-}
 .a10 {
 	font-family: 'Kelly Slab', cursive;
 	text-decoration: none;
@@ -225,7 +212,6 @@ h1{
 .a6:hover,
 .a7:hover,
 .a8:hover,
-.a9:hover,
 .a10:hover {
 	color: #a8a8a8 
 }
