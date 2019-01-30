@@ -30,9 +30,12 @@
 	color: #000000;
 	padding-top: 5px;
 	border-radius: 25px;
+	text-transform: uppercase;
+	transition: 0.5s;
 }
 .but_home:hover {
 	background-color: #262525;
+	transform: scale(1.5);
 }
 .trek3{
 	width: 100%;
