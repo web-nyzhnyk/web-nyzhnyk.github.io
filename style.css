@@ -33,9 +33,12 @@
 	color: #000000;
 	padding-top: 5px;
 	border-radius: 25px;
+	text-transform: uppercase;
+	transition: 0.5s;
 }
 .nava a:hover{
-	background-color: #262525;
+	background-color: #494848;
+	transform: scale(1.5);
 }
 .trek3{
 	width: 100%;
