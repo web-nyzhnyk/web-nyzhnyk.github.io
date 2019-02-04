@@ -23,6 +23,7 @@
 	background-color: white;
 }
 .nava a{
+	font-size: 100%;
 	font-family: 'Staatliches', cursive;
 	text-decoration: none;
 	margin: 15px;
@@ -35,6 +36,13 @@
 	border-radius: 25px;
 	text-transform: uppercase;
 	transition: 0.5s;
+}
+@media(max-width: 500px){
+	.nava a{	
+		width: 200px;
+		height: 50px;
+		font-size: 200%;
+	}
 }
 .nava a:hover{
 	background-color: #494848;
