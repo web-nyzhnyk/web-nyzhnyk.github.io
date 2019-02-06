@@ -37,7 +37,7 @@
 	text-transform: uppercase;
 	transition: 0.5s;
 }
-@media all and (max-width: 450px){
+@media all and (max-width: 600px){
 	.nava a{	
 		width: 200px;
 		height: 50px;
@@ -223,20 +223,6 @@ h1{
 	position: absolute;
 	bottom: 35%;
 	left: 45%;
-}
-@media screen and (max-width: 450px){
-	.a1{
-	bottom: 60%;
-	left: 48%;
-	}
-	.a2{
-	bottom: 52%;
-	left: 60%;
-	}
-	.a5{
-	bottom: 50%;
-	left: 75%;
-	}
 }
 .a1:hover,
 .a2:hover,
