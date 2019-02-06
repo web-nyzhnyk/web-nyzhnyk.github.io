@@ -224,7 +224,7 @@ h1{
 	bottom: 35%;
 	left: 45%;
 }
-@media all and (max-width: 900px){
+@media screen and (max-width: 900px){
 	.a1{
 	bottom: 60%;
 	left: 48%;
